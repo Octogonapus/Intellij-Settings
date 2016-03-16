@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="mainStylesheet" type="CSS" />
+      <mapping pattern="test" type="Haskell" />
+      <mapping ext="tiff" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
