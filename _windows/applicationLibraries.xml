@@ -31,6 +31,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="junit">
+      <CLASSES>
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="net.sourceforge.htmlunit:htmlunit:2.22" type="repository">
       <properties maven-id="net.sourceforge.htmlunit:htmlunit:2.22" />
       <CLASSES>
