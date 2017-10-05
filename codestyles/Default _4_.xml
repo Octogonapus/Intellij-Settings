@@ -7,22 +7,4 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <codeStyleSettings language="JAVA">
-    <option name="WHILE_ON_NEW_LINE" value="true" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
-    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
-    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
-    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
-    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
