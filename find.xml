@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'HospitalKiosk'" />
-    <option name="defaultScopeName" value="Project 'HospitalKiosk'" />
-    <option name="SEARCH_SCOPE" value="Project 'HospitalKiosk'" />
+    <option name="customScope" value="Project 'OutlineViewer'" />
+    <option name="defaultScopeName" value="Project 'OutlineViewer'" />
+    <option name="SEARCH_SCOPE" value="Project 'OutlineViewer'" />
   </component>
 </application>
