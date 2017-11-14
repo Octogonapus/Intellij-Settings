@@ -4,6 +4,7 @@
       <mapping pattern="mainStylesheet" type="CSS" />
       <mapping pattern="test" type="Haskell" />
       <mapping ext="cl" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
