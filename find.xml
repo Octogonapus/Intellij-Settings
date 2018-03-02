@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\src\main\java\com\neuronrobotics\bowlerbuilder [BowlerBuilder_main]'" />
-    <option name="defaultScopeName" value="Directory '...\src\main\java\com\neuronrobotics\bowlerbuilder [BowlerBuilder_main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\src\main\java\com\neuronrobotics\bowlerbuilder [BowlerBuilder_main]'" />
+    <option name="customScope" value="Directory '...\src\test [BowlerBuilder_test]'" />
+    <option name="defaultScopeName" value="Directory '...\src\test [BowlerBuilder_test]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\test [BowlerBuilder_test]'" />
   </component>
 </application>
