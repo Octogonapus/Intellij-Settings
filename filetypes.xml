@@ -6,6 +6,7 @@
       <mapping ext="cl" type="PLAIN_TEXT" />
       <mapping ext="emacs" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="license" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

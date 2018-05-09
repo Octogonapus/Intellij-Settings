@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'BowlerBuilder'" />
-    <option name="defaultScopeName" value="Project 'BowlerBuilder'" />
-    <option name="SEARCH_SCOPE" value="Project 'BowlerBuilder'" />
+    <option name="customScope" value="File '...\src\main\java\com\neuronrobotics\bowlerbuilder\controller\cadengine\BowlerCadEngine.java [BowlerBuilder]'" />
+    <option name="defaultScopeName" value="File '...\src\main\java\com\neuronrobotics\bowlerbuilder\controller\cadengine\BowlerCadEngine.java [BowlerBuilder]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\neuronrobotics\bowlerbuilder\controller\cadengine\BowlerCadEngine.java [BowlerBuilder]'" />
   </component>
 </application>
