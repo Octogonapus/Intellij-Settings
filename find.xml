@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'BowlerBuilder'" />
-    <option name="defaultScopeName" value="Project 'BowlerBuilder'" />
-    <option name="SEARCH_SCOPE" value="Project 'BowlerBuilder'" />
+    <option name="customScope" value="Project 'bowler-script-kernel'" />
+    <option name="defaultScopeName" value="Project 'bowler-script-kernel'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'bowler-script-kernel'" />
   </component>
 </application>
