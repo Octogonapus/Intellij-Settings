@@ -4,6 +4,7 @@
       <mapping pattern="mainStylesheet" type="CSS" />
       <mapping pattern="test" type="Haskell" />
       <mapping ext="cl" type="PLAIN_TEXT" />
+      <mapping ext="g4" type="PLAIN_TEXT" />
       <mapping ext="emacs" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
